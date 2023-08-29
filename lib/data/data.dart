@@ -1,0 +1,383 @@
+part 'x000.dart';
+part 'x001.dart';
+part 'x002.dart';
+part 'x003.dart';
+part 'x004.dart';
+part 'x005.dart';
+part 'x006.dart';
+part 'x007.dart';
+part 'x009.dart';
+part 'x00a.dart';
+part 'x00b.dart';
+part 'x00c.dart';
+part 'x00d.dart';
+part 'x00e.dart';
+part 'x00f.dart';
+part 'x010.dart';
+part 'x011.dart';
+part 'x012.dart';
+part 'x013.dart';
+part 'x014.dart';
+part 'x015.dart';
+part 'x016.dart';
+part 'x017.dart';
+part 'x018.dart';
+part 'x01d.dart';
+part 'x01e.dart';
+part 'x01f.dart';
+part 'x020.dart';
+part 'x021.dart';
+part 'x022.dart';
+part 'x023.dart';
+part 'x024.dart';
+part 'x025.dart';
+part 'x026.dart';
+part 'x027.dart';
+part 'x028.dart';
+part 'x029.dart';
+part 'x02a.dart';
+part 'x02c.dart';
+part 'x02e.dart';
+part 'x02f.dart';
+part 'x030.dart';
+part 'x031.dart';
+part 'x032.dart';
+part 'x033.dart';
+part 'x04d.dart';
+part 'x04e.dart';
+part 'x04f.dart';
+part 'x050.dart';
+part 'x051.dart';
+part 'x052.dart';
+part 'x053.dart';
+part 'x054.dart';
+part 'x055.dart';
+part 'x056.dart';
+part 'x057.dart';
+part 'x058.dart';
+part 'x059.dart';
+part 'x05a.dart';
+part 'x05b.dart';
+part 'x05c.dart';
+part 'x05d.dart';
+part 'x05e.dart';
+part 'x05f.dart';
+part 'x060.dart';
+part 'x061.dart';
+part 'x062.dart';
+part 'x063.dart';
+part 'x064.dart';
+part 'x065.dart';
+part 'x066.dart';
+part 'x067.dart';
+part 'x068.dart';
+part 'x069.dart';
+part 'x06a.dart';
+part 'x06b.dart';
+part 'x06c.dart';
+part 'x06d.dart';
+part 'x06e.dart';
+part 'x06f.dart';
+part 'x070.dart';
+part 'x071.dart';
+part 'x072.dart';
+part 'x073.dart';
+part 'x074.dart';
+part 'x075.dart';
+part 'x076.dart';
+part 'x077.dart';
+part 'x078.dart';
+part 'x079.dart';
+part 'x07a.dart';
+part 'x07b.dart';
+part 'x07c.dart';
+part 'x07d.dart';
+part 'x07e.dart';
+part 'x07f.dart';
+part 'x080.dart';
+part 'x081.dart';
+part 'x082.dart';
+part 'x083.dart';
+part 'x084.dart';
+part 'x085.dart';
+part 'x086.dart';
+part 'x087.dart';
+part 'x088.dart';
+part 'x089.dart';
+part 'x08a.dart';
+part 'x08b.dart';
+part 'x08c.dart';
+part 'x08d.dart';
+part 'x08e.dart';
+part 'x08f.dart';
+part 'x090.dart';
+part 'x091.dart';
+part 'x092.dart';
+part 'x093.dart';
+part 'x094.dart';
+part 'x095.dart';
+part 'x096.dart';
+part 'x097.dart';
+part 'x098.dart';
+part 'x099.dart';
+part 'x09a.dart';
+part 'x09b.dart';
+part 'x09c.dart';
+part 'x09d.dart';
+part 'x09e.dart';
+part 'x09f.dart';
+part 'x0a0.dart';
+part 'x0a1.dart';
+part 'x0a2.dart';
+part 'x0a3.dart';
+part 'x0a4.dart';
+part 'x0ac.dart';
+part 'x0ad.dart';
+part 'x0ae.dart';
+part 'x0af.dart';
+part 'x0b0.dart';
+part 'x0b1.dart';
+part 'x0b2.dart';
+part 'x0b3.dart';
+part 'x0b4.dart';
+part 'x0b5.dart';
+part 'x0b6.dart';
+part 'x0b7.dart';
+part 'x0b8.dart';
+part 'x0b9.dart';
+part 'x0ba.dart';
+part 'x0bb.dart';
+part 'x0bc.dart';
+part 'x0bd.dart';
+part 'x0be.dart';
+part 'x0bf.dart';
+part 'x0c0.dart';
+part 'x0c1.dart';
+part 'x0c2.dart';
+part 'x0c3.dart';
+part 'x0c4.dart';
+part 'x0c5.dart';
+part 'x0c6.dart';
+part 'x0c7.dart';
+part 'x0c8.dart';
+part 'x0c9.dart';
+part 'x0ca.dart';
+part 'x0cb.dart';
+part 'x0cc.dart';
+part 'x0cd.dart';
+part 'x0ce.dart';
+part 'x0cf.dart';
+part 'x0d0.dart';
+part 'x0d1.dart';
+part 'x0d2.dart';
+part 'x0d3.dart';
+part 'x0d4.dart';
+part 'x0d5.dart';
+part 'x0d6.dart';
+part 'x0d7.dart';
+part 'x0f9.dart';
+part 'x0fa.dart';
+part 'x0fb.dart';
+part 'x0fc.dart';
+part 'x0fd.dart';
+part 'x0fe.dart';
+part 'x0ff.dart';
+part 'x1d4.dart';
+part 'x1d5.dart';
+part 'x1d6.dart';
+part 'x1d7.dart';
+part 'x1f1.dart';
+part 'x1f6.dart';
+
+const Map<int, List<String?>> data = {
+  0x000: x000,
+  0x001: x001,
+  0x002: x002,
+  0x003: x003,
+  0x004: x004,
+  0x005: x005,
+  0x006: x006,
+  0x007: x007,
+  0x009: x009,
+  0x00a: x00a,
+  0x00b: x00b,
+  0x00c: x00c,
+  0x00d: x00d,
+  0x00e: x00e,
+  0x00f: x00f,
+  0x010: x010,
+  0x011: x011,
+  0x012: x012,
+  0x013: x013,
+  0x014: x014,
+  0x015: x015,
+  0x016: x016,
+  0x017: x017,
+  0x018: x018,
+  0x01d: x01d,
+  0x01e: x01e,
+  0x01f: x01f,
+  0x020: x020,
+  0x021: x021,
+  0x022: x022,
+  0x023: x023,
+  0x024: x024,
+  0x025: x025,
+  0x026: x026,
+  0x027: x027,
+  0x028: x028,
+  0x029: x029,
+  0x02a: x02a,
+  0x02c: x02c,
+  0x02e: x02e,
+  0x02f: x02f,
+  0x030: x030,
+  0x031: x031,
+  0x032: x032,
+  0x033: x033,
+  0x04d: x04d,
+  0x04e: x04e,
+  0x04f: x04f,
+  0x050: x050,
+  0x051: x051,
+  0x052: x052,
+  0x053: x053,
+  0x054: x054,
+  0x055: x055,
+  0x056: x056,
+  0x057: x057,
+  0x058: x058,
+  0x059: x059,
+  0x05a: x05a,
+  0x05b: x05b,
+  0x05c: x05c,
+  0x05d: x05d,
+  0x05e: x05e,
+  0x05f: x05f,
+  0x060: x060,
+  0x061: x061,
+  0x062: x062,
+  0x063: x063,
+  0x064: x064,
+  0x065: x065,
+  0x066: x066,
+  0x067: x067,
+  0x068: x068,
+  0x069: x069,
+  0x06a: x06a,
+  0x06b: x06b,
+  0x06c: x06c,
+  0x06d: x06d,
+  0x06e: x06e,
+  0x06f: x06f,
+  0x070: x070,
+  0x071: x071,
+  0x072: x072,
+  0x073: x073,
+  0x074: x074,
+  0x075: x075,
+  0x076: x076,
+  0x077: x077,
+  0x078: x078,
+  0x079: x079,
+  0x07a: x07a,
+  0x07b: x07b,
+  0x07c: x07c,
+  0x07d: x07d,
+  0x07e: x07e,
+  0x07f: x07f,
+  0x080: x080,
+  0x081: x081,
+  0x082: x082,
+  0x083: x083,
+  0x084: x084,
+  0x085: x085,
+  0x086: x086,
+  0x087: x087,
+  0x088: x088,
+  0x089: x089,
+  0x08a: x08a,
+  0x08b: x08b,
+  0x08c: x08c,
+  0x08d: x08d,
+  0x08e: x08e,
+  0x08f: x08f,
+  0x090: x090,
+  0x091: x091,
+  0x092: x092,
+  0x093: x093,
+  0x094: x094,
+  0x095: x095,
+  0x096: x096,
+  0x097: x097,
+  0x098: x098,
+  0x099: x099,
+  0x09a: x09a,
+  0x09b: x09b,
+  0x09c: x09c,
+  0x09d: x09d,
+  0x09e: x09e,
+  0x09f: x09f,
+  0x0a0: x0a0,
+  0x0a1: x0a1,
+  0x0a2: x0a2,
+  0x0a3: x0a3,
+  0x0a4: x0a4,
+  0x0ac: x0ac,
+  0x0ad: x0ad,
+  0x0ae: x0ae,
+  0x0af: x0af,
+  0x0b0: x0b0,
+  0x0b1: x0b1,
+  0x0b2: x0b2,
+  0x0b3: x0b3,
+  0x0b4: x0b4,
+  0x0b5: x0b5,
+  0x0b6: x0b6,
+  0x0b7: x0b7,
+  0x0b8: x0b8,
+  0x0b9: x0b9,
+  0x0ba: x0ba,
+  0x0bb: x0bb,
+  0x0bc: x0bc,
+  0x0bd: x0bd,
+  0x0be: x0be,
+  0x0bf: x0bf,
+  0x0c0: x0c0,
+  0x0c1: x0c1,
+  0x0c2: x0c2,
+  0x0c3: x0c3,
+  0x0c4: x0c4,
+  0x0c5: x0c5,
+  0x0c6: x0c6,
+  0x0c7: x0c7,
+  0x0c8: x0c8,
+  0x0c9: x0c9,
+  0x0ca: x0ca,
+  0x0cb: x0cb,
+  0x0cc: x0cc,
+  0x0cd: x0cd,
+  0x0ce: x0ce,
+  0x0cf: x0cf,
+  0x0d0: x0d0,
+  0x0d1: x0d1,
+  0x0d2: x0d2,
+  0x0d3: x0d3,
+  0x0d4: x0d4,
+  0x0d5: x0d5,
+  0x0d6: x0d6,
+  0x0d7: x0d7,
+  0x0f9: x0f9,
+  0x0fa: x0fa,
+  0x0fb: x0fb,
+  0x0fc: x0fc,
+  0x0fd: x0fd,
+  0x0fe: x0fe,
+  0x0ff: x0ff,
+  0x1d4: x1d4,
+  0x1d5: x1d5,
+  0x1d6: x1d6,
+  0x1d7: x1d7,
+  0x1f1: x1f1,
+  0x1f6: x1f6,
+};
