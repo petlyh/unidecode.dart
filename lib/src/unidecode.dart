@@ -57,7 +57,7 @@ class UniDecode extends Converter<String, String> {
       return char;
     }
 
-    // No data for characters in the Private Use Are and above.
+    // No data for characters in the Private Use Area and above.
     if (codeUnit > 0xeffff) {
       return null;
     }
